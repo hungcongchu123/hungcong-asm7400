@@ -1,0 +1,105 @@
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.AssemblyReference.cache
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Form1.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Properties.Resources.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.GenerateResource.cache
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.CoreCompileInputs.cache
+D:\C#\quản lý thư viện\quản lý thư viện\bin\Debug\quản lý thư viện.exe.config
+D:\C#\quản lý thư viện\quản lý thư viện\bin\Debug\quản lý thư viện.exe
+D:\C#\quản lý thư viện\quản lý thư viện\bin\Debug\quản lý thư viện.pdb
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.exe
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.pdb
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Publisher_Management.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Author_Management.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrower_Management.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.BooK_mana.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_Copy.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrow_Management.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Change_Password.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Details_information.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.librarian.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.login.resources
+D:\C#\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Register.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\bin\Debug\quản lý thư viện.exe.config
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\bin\Debug\quản lý thư viện.exe
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\bin\Debug\quản lý thư viện.pdb
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Author_Management.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_Copy.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrow_Management.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrower_Management.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Form1.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Change_Password.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Details_information.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.librarian.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.login.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Properties.Resources.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Publisher_Management.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Register.resources
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.exe
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản lý thư viện.pdb
+C:\Users\Admin\Downloads\quản lý thư viện\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_management.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.exe.config
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.exe
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.pdb
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Author_Management.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_Copy.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_management.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrow_Management.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrower_Management.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Form1.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Change_Password.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Details_information.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.librarian.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.login.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Publisher_Management.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Register.resources
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.exe
+C:\Users\ADMIN\Downloads\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.pdb
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.AssemblyReference.cache
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Author_Management.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_Copy.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_management.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrow_Management.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrower_Management.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Form1.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Change_Password.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Details_information.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.librarian.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.login.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Properties.Resources.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Publisher_Management.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Register.resources
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.GenerateResource.cache
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.CoreCompileInputs.cache
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.exe
+D:\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.pdb
+D:\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.exe.config
+D:\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.exe
+D:\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.pdb
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.exe.config
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.exe
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\bin\Debug\quản lý thư viện.pdb
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Author_Management.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_Copy.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Book_management.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrow_Management.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Borrower_Management.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Form1.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Change_Password.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Details_information.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.librarian.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.login.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Publisher_Management.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản_lý_thư_viện.Register.resources
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.exe
+C:\Users\ADMIN\Desktop\7400 database\quản lý thư viện\quản lý thư viện (1)\quản lý thư viện\obj\Debug\quản lý thư viện.pdb
